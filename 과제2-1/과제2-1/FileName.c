@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void caculate(int a, int b);                                     // caculate함수 선언 > 함수의 내용이 너무 길어서 앞에서 선언만 함
+void caculate(int a, int b);                                     // caculate함수 선언 ( 함수의 내용이 너무 길어서 앞에서 선언만 함 )
 
 int main(void)                                                     // mian 함수 선언
 {
