@@ -5,5 +5,5 @@
 
 # Allow list
 !.gitignore
-!.gitattributes
+!.gitattributres
 !*.c
